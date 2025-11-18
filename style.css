@@ -1,0 +1,191 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    width: 100vw;
+}
+
+.body-wrapper {
+    padding: 0 3% 0 2.5%;
+}
+
+hr {
+    background-color: #1C6EA4;
+    width: 85%;
+    height: 1.5px;
+    margin: 3% auto;
+    padding: 0 auto;
+}
+
+a {
+    color: #1C6EA4;
+}
+
+p {
+    text-align: justify;
+}
+
+.sh-contact-info li {
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+    padding: 15px;
+    text-align: center;
+    font-size: .9rem;
+    color: #154D71;
+}
+
+.sh-contact-info a {
+    text-decoration: none;
+    font-size: .90rem;
+    color: #154D71;
+}
+
+.sub-header {
+    background-color: #FFF9AF;
+    text-align: center;
+    margin: -18px 0px;
+}
+
+header {
+    background-color: #154D71;
+    margin: 0px 0px;
+    padding: 1px 1%;
+    border-bottom: 1px solid #545454;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+    font-size: 1rem;
+    text-align: center;
+    position: sticky;
+    top: 0;
+}
+
+header a {
+    color: #FFF9AF;
+    text-decoration: none;
+
+}
+
+header a:hover {
+    color: #FFF9AF;
+    text-decoration: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-top: 3px solid #FFF9AF;
+    border-bottom: 3px solid #FFF9AF;
+}
+
+header a:active {
+    color: #FFF9AF;
+    text-decoration: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-top: 3px solid #FFF9AF;
+    border-bottom: 3px solid #FFF9AF;
+}
+
+nav ul li {
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+    padding: .7% 3%;
+    text-align: center;
+    font-weight: bold;
+    }
+
+.title {
+    text-align: center;
+}
+
+h1 {
+    line-height: 1.25rem;
+    margin-top: 5%;
+    color: #154D71;
+}
+
+h2 {
+    text-align: center;
+    color: #154D71;
+}
+
+h3 {
+    color: #1C6EA4;
+}
+
+.subtitle {
+    text-align: center;
+}
+
+.profile {
+    padding: 0 5%;
+}
+
+.employment-ul li::marker {
+    color: #33A1E0; 
+}
+
+.two-column-container {
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row wrap;
+    align-items: flex-start;
+}
+
+.column1 {
+    flex: 1;
+}
+
+.column2 {
+    flex: 2;
+    padding: 0 5px 0 15px;
+}
+
+.two-column-container p {
+    margin: 0 0 5% 0;
+    padding: 0;
+}
+
+h3 {
+    margin: 0;
+    padding: 0;
+}
+
+.three-column-container {
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row wrap;
+    align-items: flex-start;
+}
+
+.column-1 {
+    flex: 1;
+    padding: 0 2.5% 0 2.5%;
+}
+
+.column-2 {
+    flex: 1;
+    padding: 0 2.5% 0 0;
+}
+
+.column-3 {
+    flex: 1;
+    padding: 0 2.5% 0 2.5%;
+}
+
+.skills p {
+    text-align: left;
+}
+
+.certifications {
+    align-items: flex-end;
+}
+
+.references p {
+    margin-bottom: 0;
+}
+
+.references .two-column-container {
+    margin-bottom: 3%;
+}
