@@ -28,6 +28,8 @@ p {
     text-align: justify;
 }
 
+@media screen and (min-width: 1200px) {
+
 .sh-contact-info li {
     text-decoration: none;
     list-style-type: none;
@@ -188,4 +190,5 @@ h3 {
 
 .references .two-column-container {
     margin-bottom: 3%;
+}
 }
