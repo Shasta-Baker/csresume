@@ -1,0 +1,376 @@
+<!doctype html>
+<html lang="eng">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale="1.0">
+    <title>Shasta Baker Resume</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/46e3535591.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="sub-header">
+        <ul class="sh-contact-info">
+            <li><i class="fa-solid fa-envelope"></i>  <a href="mailto:shasta.me.you@gmail.com">shasta.me.you@gmail.com</a></li>
+            <li><i class="fa-solid fa-phone"></i>  <a href="tel:+13059886515">305-988-6515</a></li>
+        </ul>
+    </div>
+<header>
+    <nav>
+        <ul>
+            <li><a href="#intro">Intro</a></li>
+            <li><a href="#employment">Employment</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#certifications">Certifications</a></li>
+            <li><a href="#references">References</a></li>
+            <li><a href="https://www.linkedin.com/in/shasta-baker-0a9051326/" target="_blank">LinkedIn</a></li>
+        </ul>
+    </nav>
+    
+</header>
+    <div class="body-wrapper">
+<section class="title">
+    <h1>Shasta Baker Resume</h1>
+    <p class="subtitle">Belle Plaine, IA  |  <a href="mailto:shasta.me.you@gmail.com" target="_blank">shasta.me.you@gmail.com</a>  |  <a href="tel:+13059886515" target="_blank">(305)988-6515</a></p>
+    <hr id="intro">
+</section>
+<section class="profile">
+    <h2>Profile</h2>
+        <div>
+            <p>My professional track has taken me many places, but I always come back to my first love: <b><em>The Restaurant Industry.</em></b> I love working with people, the controlled chaos of the rush, and most of all… I’m highly competitive!</p>
+    </div>
+</section>
+<hr id="employment">
+    <section class="employment-history">
+        <h2>Employment History</h2>
+        <div class="two-column-container">
+        <div class="column1">
+            <h3>January 2022 - Present</h3>
+            <p>Perceptionist Inc.</p>
+        </div>
+        <div class="column2">
+            <h3>Jr. Account Manager</h3>
+            <p>Starting in the sales agent role and maintaining the status of top performer, in December 2023 I grew within this company into Client Services and then January 2025 into Account Management. </p>
+            <p>My responsibilities include:</p>
+            <ul class="employment-ul">
+                <li>CRM Management</li>
+                <li>Assisting in billing and invoicing activities, including collections.</li>
+                <li>Upselling and cross selling to our current customer base.</li>
+                <li>Our B2B sales.</li>
+                <li>Providing customer support by responding to customer inquiries and providing First Call Resolution by collaborating with both internal and external departments to facilitate expeditious resolution.</li>
+                <li>Gathering and implementing client feedback to improve the quality of service or agent performance.</li>
+                <li>Maintaining accurate customer contact or update records.</li>
+            </ul>
+        </div>
+        <div class="two-column-container">
+        <div class="column1">
+            <h3>December 2018 - March 2022</h3>
+            <p>Crown Credit & Debt Solutions</p>
+        </div>
+        <div class="column2">
+            <h3>B2C Sales & Account Manager</h3>
+            <p>In this role, I successfully doubled the company portfolio utilizing a combination of digital marketing, networking at related events, and professional referral campaigns.</p>
+            <p>The role encompassed a comination of acquiring new customers and strategically managing the accounts through each stage of the financial counseling process.</p>
+            <p>My engagement included up selling and cross selling, as applicable, to help customers meet their needs.</p>
+            <p>I excelled in handling escalations and disputes, resolving client issues in a satisfactory manner.</p>
+        </div>
+             <div class="two-column-container">
+        <div class="column1">
+            <h3>November 2014 - December 2018</h3>
+            <p>Social Biz Flow</p>
+        </div>
+        <div class="column2">
+            <h3>Project Manager & Account Manager</h3>
+            <p>Starting as an intern, I gained a solid foundation in digital marketing, branding, and content creation. I excelled in technical roles, like implementing systems, APIs and building aesthetic landing pages and Wordpress websites.</p>
+            <p>After the internship, I was hired as the Implementation Specialist where I was able to hone my skills in areas like SEO, SEM & PPC, email marketing, CRM management, Social Media Marketing, Analytics & Data Analysis, market research, and marketing automation.</p>
+            <p>As an Account Manager and Project manager, I was responsible for onboarding new clients, overseeing and executing their marketing plan, and maintaining long-term relationships. I successfully identified opportunities for upselling and was directly responsible for over $250,000 in additional revenue during my career at Social Biz Flow.</p>
+            <br>
+        </div>
+                  <div class="two-column-container">
+        <div class="column1">
+            <h3>December 2018 - March 2022</h3>
+            <p>Crown Credit & Debt Solutions</p>
+        </div>
+        <div class="column2">
+            <h3>B2C Sales & Account Manager</h3>
+            <p>In this role, I successfully doubled the company portfolio utilizing a combination of digital marketing, networking at related events, and professional referral campaigns.</p>
+            <p>The role encompassed a comination of acquiring new customers and strategically managing the accounts through each stage of the financial counseling process.</p>
+            <p>My engagement included up selling and cross selling, as applicable, to help customers meet their needs.</p>
+            <p>I excelled in handling escalations and disputes, resolving client issues in a satisfactory manner.</p>
+        </div>
+        <div class="two-column-container">
+        <div class="column1">
+            <h3>July 2012 - September 2017</h3>
+            <p>Mamma Mia Pizzeria & Restaurant 2</p>
+        </div>
+        <div class="column2">
+            <h3>Front-End Manager</h3>
+            <p>At this location, I worked every position from Delivery Driver, Prep Cook, Expediter, Server/Cashier, up to Front-End Manager.</p>
+            <p>In addition to managing the front of house, I also grew the catering business from the occasional catering order to becoming the major vendor for large catering order with Turkey Pointe (the local nuclear plant), the Netflix production crew, and the Baptist Hospital, among many other banquet halls and professional event planners. This added tens of thousands of dollars per month to overall revenue.</p>
+            <p>I continued to make our homemade desserts like Tiramisu and Panna Cotta until my career ended.</p>            
+            <p>This is where I found an interest in marketing, both digital and local and decided to pursue it further.</p>
+        </div>
+            <div class="two-column-container">
+        <div class="column1">
+            <h3>April 2012 - December 2012</h3>
+            <p>Knead-A-Pizza</p>
+        </div>
+        <div class="column2">
+            <h3>Delivery Driver & Prep Cook</h3>
+            <p>This was a struggling location when I joined the team. I helped grow the delivery business by netowrking with local residents and businesses, getting he word out about the great food and service. Once we had a team of drivers, I managed the expediting of the orders for take out and delivery.</p>
+        </div>
+    </div>
+            <div class="two-column-container">
+        <div class="column1">
+            <h3>March 2007 - January 2010</h3>
+            <p>Pizza Hut</p>
+        </div>
+        <div class="column2">
+            <h3>Floating Team Member</h3>
+            <p>I started at this location on the pizza make line, however, I cross-trained to all departments except for delivery driving. CSR, prep, server, dishwasher, the cut table. I floated to the department that needed my support the most in the moment.</p>
+        </div>
+    </div>
+        <div class="two-column-container">
+        <div class="column1">
+            <h3>April 2008 - October 2009</h3>
+            <p>Capri Restaurant</p>
+        </div>
+        <div class="column2">
+            <h3>Cashier / Prep / Pizza Cook</h3>
+            <p>Because of previous experience in different areas, they allowed me to support different departments to create a fulltime role for me at this fine-dining restaurant. I did the bulk of my time cashiering, but I spend at least 1 day per week in prep and 2 days per week in the pizza kitchen.</p>
+        </div>
+    </div>
+        <div class="two-column-container">
+        <div class="column1">
+            <h3>April 2007 - April 2008</h3>
+            <p>Big Daddy's Pizza</p>
+        </div>
+        <div class="column2">
+            <h3>Delivery Driver / Prep</h3>
+            <p>This role was split between prep in the morning shift and delivery in the evening shift. Delivery driver's also had the responsibility of all the closing cleaning and sidework.</p>
+        </div>
+    </div>
+            <div class="two-column-container">
+        <div class="column1">
+            <h3>April 2006 - March 2007</h3>
+            <p>Captain D's Seafood</p>
+        </div>
+        <div class="column2">
+            <h3>Cashier</h3>
+            <p>As a cashier, I would tend the register, take orders for dine in and take out, maintain the cleanliness of the dining room, and assisted with the drive-thru, as needed.</p>
+        </div>
+    </div>
+            <div class="two-column-container">
+        <div class="column1">
+            <h3>February 2006 - July 2006</h3>
+            <p>Denny's</p>
+        </div>
+        <div class="column2">
+            <h3>Hostess / Server</h3>
+            <p>I was allowed to serve during the day when there was no risk of anyone ordering alcohol, in the evening I would manage the hostess stand and seat tables and expedite the take out orders.</p>
+        </div>
+    </div>
+    <hr id="skills">
+</section>
+  <section class="skills">
+      <h2>Skills</h2>
+    <div class="three-column-container">
+        <div class="column-1">
+            <p>Communication</p>
+            <p>Interpersonal Skills</p>
+            <p>Problem Solving</p>
+        </div>
+        <div class="column-2">
+            <p>Leadership & Collaboration</p>
+            <p>Time Management</p>
+            <p>Can Work Indepently Or Part Of A Team</p>
+        </div>
+        <div class="column-3">
+            <p>Client Relations</p>
+            <p>Project Management</p>
+            <p>Upselling and Cross Selling</p>
+        </div>
+        <hr id="certifications">
+  </section>
+            <section class="certifications">
+                <h2>Certifications</h2>
+        <div class="two-column-container">
+        <div class="column1">
+            
+            <h3>Jun 2025 - Present</h3>
+            <p>Angela Yu, The App Brewery</p>
+        </div>
+        <div class="column2"><br>
+            <p>The Complete Full-Stack Web Development Bootcamp</p>
+    </div>
+    </div>
+            <div class="two-column-container">
+        <div class="column1">
+            <h3>Dec 2018</h3>
+            <p>NFEC</p>
+        </div>
+        <div class="column2"><br>
+            <p>Certified Financial Education Instructor</p>
+    </div>
+    </div>
+                
+        <div class="two-column-container">
+        <div class="column1">
+            <h3>Mar 2017</h3>
+            <p>Ryan Deiss Digital Marketer</p>
+        </div>
+        <div class="column2"><br>
+            <p>Content Marketing Mastery</p>
+    </div>
+    </div>
+        <div class="two-column-container">
+        <div class="column1">
+            <h3>Sept 2016</h3>
+            <p>Ryan Deiss Digital Marketer</p>
+        </div>
+        <div class="column2"><br>
+            <p>Content Marketing Mastery</p>
+    </div>
+    </div>
+        <div class="two-column-container">
+        <div class="column1">
+            <h3>May 2016</h3>
+            <p>Ryan Deiss Digital Marketer</p>
+        </div>
+        <div class="column2"><br>
+            <p>Email Marketing Mastery</p>
+    </div>
+    </div>
+        <div class="two-column-container">
+        <div class="column1">
+            <h3>Feb 2016</h3>
+            <p>Ryan Deiss Digital Marketer</p>
+        </div>
+        <div class="column2"><br>
+            <p>Paid Traffic Mastery</p>
+    </div>
+    </div>
+        <div class="two-column-container">
+        <div class="column1">
+            <h3>Nov 2015</h3>
+            <p>Ryan Deiss Digital Marketer</p>
+        </div>
+        <div class="column2"><br>
+            <p>Analytics & Data Mastery</p>
+    </div>
+    </div>
+        <div class="two-column-container">
+        <div class="column1">
+            <h3>Jul 2015</h3>
+            <p>Ryan Deiss Digital Marketer</p>
+        </div>
+        <div class="column2"><br>
+            <p>Paid Traffic Mastery</p>
+    </div>
+    </div>
+        <div class="two-column-container">
+        <div class="column1">
+            <h3>Mar 2015</h3>
+            <p>Ryan Deiss Digital Marketer</p>
+        </div>
+        <div class="column2"><br>
+            <p>Optimization & Testing Mastery</p>
+    </div>
+    </div>
+        <div class="two-column-container">
+        <div class="column1">
+            <h3>Jan 2015</h3>
+            <p>Ryan Deiss Digital Marketer</p>
+        </div>
+        <div class="column2"><br>
+            <p>Search Marketing Mastery</p>
+    </div>
+    </div>
+    <hr id="references">
+    </section>
+
+    <section class="references">
+        <h2>References</h2>
+        <div class="two-column-container">
+        <div class="column1">
+            <h3>Michael Bigler</h3>
+            <p>786-205-3744</p>
+            <p>Email Unknown</p>
+        </div>
+        <div class="column2">
+            <p><b>Former Coworker At Mamma Mia Pizzeria & Restaurant 2</b></p>
+            <p>Known 13 Years</p>
+    </div>
+    </div>
+      <div class="two-column-container">
+        <div class="column1">
+            <h3>Daniel Isaiah Shalach</h3>
+            <p>305-992-1558</p>
+            <p>daniel@lookinggod.com</p>
+        </div>
+        <div class="column2">
+            <p><b>Former Employer At Crown Credit</b></p>
+            <p>Known 11 Years</p>
+    </div>
+    </div>
+        <div class="two-column-container">
+        <div class="column1">
+            <h3>Amy Robinson</h3>
+            <p>614-384-7500</p>
+            <p>arobinson@perceptionist.com</p>
+        </div>
+        <div class="column2">
+            <p><b>Former Supervisor At Perceptionist</b></p>
+            <p>Known 3+ Years</p>
+    </div>
+    </div>
+    <div class="two-column-container">
+        <div class="column1">
+            <h3>Royalene Wojton</h3>
+            <p>614-384-7448</p>
+            <p>rwojton@perceptionist.com</p>
+        </div>
+        <div class="column2">
+            <p><b>Current Supervisor At Percecptionist</b></p>
+            <p>Known 2 Years</p>
+    </div>
+    </div>
+    <div class="two-column-container">
+        <div class="column1">
+            <h3>Tiger Downey</h3>
+            <p>866-652-5968</p>
+            <p>tigerd@perceptionist.com</p>
+        </div>
+        <div class="column2">
+            <p><b>Current CEO At Perceptionist</b></p>
+            <p>Known 4 Years</p>
+    </div>
+    </div>
+    <div class="two-column-container">
+        <div class="column1">
+            <h3>Maria Lombardo</h3>
+            <p>305-484-0580</p>
+            <p>Email Unknown</p>
+        </div>
+        <div class="column2">
+            <p><b>Former Supervisor At Mamma Mia Pizzeria & Restaurant 2</b></p>
+            <p>Known 13 Years</p>
+    </div>
+    </div>
+    <div class="two-column-container">
+        <div class="column1">
+            <h3>Roberto Lombardo</h3>
+            <p>305-484-0582</p>
+            <p>Email Unknown</p>
+        </div>
+        <div class="column2">
+            <p><b>Former Supervisor At Mamma Mia Pizzeria & Restaurant 2</b></p>
+            <p>Known 13 Years</p>
+    </div>
+    </div>
+</section>
+</div>
+</body>
+</html>
